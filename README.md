@@ -1,5 +1,6 @@
 # sup 👋
 
+- junior
 - python, c++, html, css
 - live, love, ai
 - art & design
