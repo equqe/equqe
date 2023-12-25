@@ -1,7 +1,7 @@
 # sup 👋
 
 - junior
-- python, c++, c#, html, css
+- python, c++, c#, r, bash, html, css
 - live, love, ai
 - art & design
 
