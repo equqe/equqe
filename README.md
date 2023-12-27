@@ -1,9 +1,10 @@
 # sup 👋
 
 - junior
+- backend and machine learning
 - python, c++, c#, r, bash, html, css
 - live, love, ai
-- art & design
+- art and design
 
 # socials
 
