@@ -16,6 +16,16 @@
   <a href="https://leetcode.com/equqe">
   <img src="https://img.shields.io/badge/Leetcode-black?style=for-the-badge&logo=leetcode&logoColor=white" alt="Leetcode Badge"/>
   </a>
-  
 </div>
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+
+
+![](https://komarev.com/ghpvc/?username=equqe&style=flat-square&color=754ae1)
 
