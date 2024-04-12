@@ -1,7 +1,7 @@
 # sup 👋
 
 - junior
-- backend and machine learning
+- backend
 - live, love, ai
 
 # socials
