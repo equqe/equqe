@@ -2,10 +2,7 @@
 
 - junior
 - backend and machine learning
-- python, c++/c#, bash, html/css
 - live, love, ai
-- windows, linux via oracle vm virtualbox
-- art and design
 
 # socials
 
