@@ -9,7 +9,7 @@
 </div>
 
 ### :woman_technologist: bio:
-I'm a backend dev.
+I'm a fullstack dev(primarly backend).
 - 🔭 I build web apps & administer servers
 
 - ⚡ I'm open for new projects
