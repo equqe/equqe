@@ -16,7 +16,7 @@ I'm a fullstack dev(primarly backend).
 
 - 🍀 in my free time, i read ML articles
 
-- 📬 how to contact me:  [![TG Badge](https://img.shields.io/badge/-tg-blue?style=flat&logo=telegram&logoColor=white)](https://t.me/html_F5F5F5)
+- 📬 how to contact me: &nbsp; [![TG Badge](https://img.shields.io/badge/-tg-blue?style=flat&logo=telegram&logoColor=white)](https://t.me/html_F5F5F5)
 
 <div id="stats" align="center">
   
