@@ -14,7 +14,7 @@ I'm a fullstack dev(primarly backend).
 
 - ⚡ I'm open for new projects
 
-- 🍀 in my free time, i read ML & astrophysics articles
+- 🍀 in my free time, i draw or read ML & astrophysics articles
 
 - 📬 how to contact me: &nbsp; [![TG Badge](https://img.shields.io/badge/-tg-blue?style=flat&logo=telegram&logoColor=white)](https://t.me/html_F5F5F5)
 
