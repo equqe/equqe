@@ -76,7 +76,8 @@ Uses standart C# modules, such as System.Globalization, System.Net.Sockets ...
 
 Writes out any interaction in [YYYY-mm-dd hh:mm:ss] 'HTTP_METHOD /...' HTTP_CODE STATUS format in console
 
-![image](https://github.com/equqe/equqe/assets/145790372/428b1567-d126-4746-b759-47b8a112ac03)
+![image](https://github.com/equqe/equqe/assets/145790372/c3bc42f4-5349-4e94-8f5c-123ba5289fa7)
+
 
 
 
