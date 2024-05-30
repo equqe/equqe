@@ -5,21 +5,15 @@
   
   <h1> sᴜᴘ 👋</h1>
 
+I build web apps & administer servers! Open for new projects.
+
+ᴛᴇᴄʜ:
+
   <a href="https://www.сsharp.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+
+<h1> </h1>
+
 </div>
-
-I'm a fullstack dev(primarly backend).
-- 🔭 I build web apps & administer servers
-- ⚡ I'm open for new projects
-- 🍀 in my free time, i do art or read articles about machine learning, robotics, astrophysics, politology and chemistry!
-- 📬 how to reach me:
-  
-  <a href="https://t.me/html_F5F5F5" target="_blank" rel="noreferrer"> <img src="https://github.com/matomo-org/matomo-icons/blob/master/src/socials/web.telegram.org.svg" alt="tg" width="40" height="40"/>
-  <a href="https://discord.com/users/equqe" target="_blank" rel="noreferrer"> <img src="https://github.com/brand-icons/brands/blob/master/icons/color/discord.svg" alt="discord" width="40" height="40"/>
-
-  <a href="https://www.t.me" target="_blank" rel="noreferrer"> <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/telegram.svg" alt="csharp" width="40" height="40"/>
-
-Languages I can understand: 🇷🇺, 🇩🇪, 🇯🇵, 🇺🇸
 
 <div id="stats" align="center">
 
@@ -44,34 +38,59 @@ Languages I can understand: 🇷🇺, 🇩🇪, 🇯🇵, 🇺🇸
 <i>some of them still aren't finished</i>
 
 
-&nbsp;
+<h2> 
 
-
-• AI model trained on quasar sdss dataset &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;          • webserver written on C#
-
+  [Web landing for a Minecraft project「✔完成」](https://github.com/equqe/autodonate-landing/tree/main) 
   
-[![quasar](https://github-readme-stats.vercel.app/api/pin/?username=equqe&repo=quasar-data-ml-model&theme=transparent)](https://github.com/equqe/quasar-data-ml-model)        [![server](https://github-readme-stats.vercel.app/api/pin/?username=equqe&repo=server-sharp&theme=transparent)](https://github.com/equqe/server-sharp)
+</h2>
 
 
-• weblanding on django framework &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; • mqtt web service
+sends RCON commands on server, Adaptive Frontend for tablets/mobiles/smaller devices
 
+Made using Django Framework, runs by Phusion Passenger
+
+![krasworld (1) (1) (1) (1)](https://github.com/equqe/AutodonateWebLanding/assets/145790372/f0aad4ab-16a0-47d5-aea1-d5a6fcad6758)
+
+
+
+<h2> 
+
+  [Quasar data AI model「🟡開発中」](https://github.com/equqe/quasar-data-ml-model) 
   
-  [![landing](https://github-readme-stats.vercel.app/api/pin/?username=equqe&repo=autodonate-landing&theme=transparent)](https://github.com/equqe/autodonate-landing)         [![mqtt](https://github-readme-stats.vercel.app/api/pin/?username=equqe&repo=mqtt-django&theme=transparent)](https://github.com/equqe/mqtt-django)
+</h2>
+
+primarly uses AstroML, pandas, seaborn, numpy
+
+Made using Jupyter Notebook
+
+![image](https://github.com/equqe/equqe/assets/145790372/428b1567-d126-4746-b759-47b8a112ac03)
 
 
-• (contributor) cloud CRM for automating recruitment and maintaining a candidate database
+<h2> 
 
+  [C# webserver「✔完成」](https://github.com/equqe/server-sharp) 
   
-  [![retarget](https://github-readme-stats.vercel.app/api/pin/?username=ShinKranel&repo=retarget&theme=transparent)](https://github.com/ShinKranel/retarget)
+</h2>
+
+Uses standart C# modules, such as System.Globalization, System.Net.Sockets ...
+
+Writes out any interaction in [YYYY-mm-dd hh:mm:ss] 'HTTP_METHOD /...' HTTP_CODE STATUS format in console
+
+![image](https://github.com/equqe/equqe/assets/145790372/428b1567-d126-4746-b759-47b8a112ac03)
 
 
-![sup](https://private-user-images.githubusercontent.com/74038190/240815616-7b282ec6-fcc3-4600-90a7-2c3140549f58.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTU2NDAyMTMsIm5iZiI6MTcxNTYzOTkxMywicGF0aCI6Ii83NDAzODE5MC8yNDA4MTU2MTYtN2IyODJlYzYtZmNjMy00NjAwLTkwYTctMmMzMTQwNTQ5ZjU4LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA1MTMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNTEzVDIyMzgzM1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWI2Mjc4NzlkNmU3MDVhN2FjMmY2Y2E5MWRiM2JiNDJiZTRlZDRiMmZkNTQwNjhiZjQ0Y2EyZjZmNzk3YWE5YzgmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.TvWpbvnofXTZIVw2ybZUETfF9nloYYadOipBd31IdQY)
 
+<h1> </h1>
 
 
 </div>
+<div id="stats" align="center">
+ʜᴏᴡ ᴛᴏ ʀᴇᴀᴄʜ ᴍᴇ:
 
 
+  <a href="https://t.me/html_F5F5F5" target="_blank" rel="noreferrer"> <img src="https://github.com/matomo-org/matomo-icons/blob/master/src/socials/web.telegram.org.svg" alt="tg" width="40" height="40"/>
+  <a href="https://discord.com/users/equqe" target="_blank" rel="noreferrer"> <img src="https://github.com/brand-icons/brands/blob/master/icons/color/discord.svg" alt="discord" width="40" height="40"/>
+</div>
 
 
 
