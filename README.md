@@ -3,27 +3,28 @@
 ![life](https://github.com/equqe/equqe/assets/145790372/851cca45-197c-4d4b-9e02-00d443cb5924)
 
   
-  <h1>sup 👋</h1>
+  <h1> sᴜᴘ 👋</h1>
 
-  ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+  <a href="https://www.сsharp.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 </div>
 
 I'm a fullstack dev(primarly backend).
 - 🔭 I build web apps & administer servers
-
 - ⚡ I'm open for new projects
-
 - 🍀 in my free time, i do art or read articles about machine learning, robotics, astrophysics, politology and chemistry!
+- 📬 how to reach me:
+  
+  <a href="https://t.me/html_F5F5F5" target="_blank" rel="noreferrer"> <img src="https://github.com/matomo-org/matomo-icons/blob/master/src/socials/web.telegram.org.svg" alt="tg" width="40" height="40"/>
+  <a href="https://discord.com/users/equqe" target="_blank" rel="noreferrer"> <img src="https://github.com/brand-icons/brands/blob/master/icons/color/discord.svg" alt="discord" width="40" height="40"/>
 
-- 📬 how to contact me: &nbsp; [![TG Badge](https://img.shields.io/badge/-tg-blue?style=flat&logo=telegram&logoColor=white)](https://t.me/html_F5F5F5)
+  <a href="https://www.t.me" target="_blank" rel="noreferrer"> <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/telegram.svg" alt="csharp" width="40" height="40"/>
+
+Languages I can understand: 🇷🇺, 🇩🇪, 🇯🇵, 🇺🇸
 
 <div id="stats" align="center">
 
   
-<h1> stats </h1>
+<h1> 📊 sᴛᴀᴛs 📊 </h1>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=equqe&show_icons=true&bg_color=00000000&rank_icon=github)
 [![GitHub Streak](https://streak-stats.demolab.com?user=equqe&theme=github-dark-blue)](https://git.io/streak-stats)
@@ -39,7 +40,7 @@ I'm a fullstack dev(primarly backend).
 
 <div id="latest" align="center">
 
-<h1>🍀 latest projects 🍀</h1>
+<h1>🍀📑 ʟᴀᴛᴇsᴛ ᴘʀᴏᴊᴇᴄᴛs 📑🍀</h1>
 <i>some of them still aren't finished</i>
 
 
