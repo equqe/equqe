@@ -45,7 +45,7 @@ I build web apps & administer servers! Open for new projects.
 </h2>
 
 
-sends RCON commands on server, Adaptive Frontend for tablets/mobiles/smaller devices
+sends RCON commands on server, Payments API, Adaptive Frontend for tablets/mobiles/smaller devices
 
 Made using Django Framework, runs by Phusion Passenger
 
