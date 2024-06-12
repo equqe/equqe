@@ -5,7 +5,8 @@
   
   <h1> sᴜᴘ 👋</h1>
 
-I build web apps & administer servers! Open for new projects.
+I build web apps & administer servers! 
+Open for new projects.
 
 ᴛᴇᴄʜ:
 
