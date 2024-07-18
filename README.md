@@ -41,7 +41,7 @@ Open for new projects.
 
 <h2> 
 
-  [Web landing for a Minecraft project「✔完成」](https://github.com/equqe/autodonate-landing/tree/main) 
+  [Web landing for a server project「✔完成」](https://github.com/equqe/autodonate-landing/tree/main) 
   
 </h2>
 
