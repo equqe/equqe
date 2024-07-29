@@ -56,15 +56,14 @@ Made using Django Framework, runs by Phusion Passenger
 
 <h2> 
 
-  [Quasar data AI model「🟡開発中」](https://github.com/equqe/quasar-data-ml-model) 
+  [test artifacts management system「✔完成」](https://github.com/equqe/test-artifacts-management-system) 
   
 </h2>
 
-primarly uses AstroML, pandas, seaborn, numpy
+test artifacts management system on Django. Uses Postgres, Django Framework. Deploy on Docker, runs by Nginx + GitHub Action Workflow, Docker CI
 
-Made using Jupyter Notebook
+![image](https://github.com/user-attachments/assets/222901b7-3511-4b5d-a626-e7f8b5a8caa3)
 
-![image](https://github.com/equqe/equqe/assets/145790372/428b1567-d126-4746-b759-47b8a112ac03)
 
 
 <h2> 
