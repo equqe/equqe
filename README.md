@@ -36,53 +36,6 @@ Trying myself in AI/ML, too.
 
 <div id="latest" align="center">
 
-<h1>🍀📑 ʟᴀᴛᴇsᴛ ᴘʀᴏᴊᴇᴄᴛs 📑🍀</h1>
-<i>some of them still aren't finished</i>
-
-
-<h2> 
-
-  [Web landing for a server project「✔完成」](https://github.com/equqe/autodonate-landing/tree/main) 
-  
-</h2>
-
-
-sends RCON commands on server, Payments API, Adaptive Frontend for tablets/mobiles/smaller devices
-
-Made using Django Framework, runs by Phusion Passenger
-
-![krasworld (1) (1) (1) (1)](https://github.com/equqe/AutodonateWebLanding/assets/145790372/f0aad4ab-16a0-47d5-aea1-d5a6fcad6758)
-
-
-
-<h2> 
-
-  [test artifacts management system「✔完成」](https://github.com/equqe/test-artifacts-management-system) 
-  
-</h2>
-
-test artifacts management system on Django. Uses Postgres, Django Framework. Deploy on Docker, runs by Nginx + GitHub Action Workflow, Docker CI
-
-![image](https://github.com/user-attachments/assets/222901b7-3511-4b5d-a626-e7f8b5a8caa3)
-
-
-
-<h2> 
-
-  [C# webserver「✔完成」](https://github.com/equqe/server-sharp) 
-  
-</h2>
-
-Uses standart C# modules, such as System.Globalization, System.Net.Sockets ...
-
-Writes out any interaction in [YYYY-mm-dd hh:mm:ss] 'HTTP_METHOD /...' HTTP_CODE STATUS format in console
-
-![image](https://github.com/equqe/equqe/assets/145790372/c3bc42f4-5349-4e94-8f5c-123ba5289fa7)
-
-
-
-
-<h1> </h1>
 
 
 </div>
