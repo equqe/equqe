@@ -44,7 +44,6 @@ Trying myself in AI/ML, too.
 
 
   <a href="https://t.me/html_F5F5F5" target="_blank" rel="noreferrer"> <img src="https://github.com/matomo-org/matomo-icons/blob/master/src/socials/web.telegram.org.svg" alt="tg" width="40" height="40"/>
-  <a href="https://discord.com/users/equqe" target="_blank" rel="noreferrer"> <img src="https://github.com/brand-icons/brands/blob/master/icons/color/discord.svg" alt="discord" width="40" height="40"/>
 </div>
 
 
